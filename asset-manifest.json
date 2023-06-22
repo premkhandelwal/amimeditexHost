@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d419761.css",
+    "main.js": "/static/js/main.78ee2fee.js",
+    "static/js/787.fa66b9e7.chunk.js": "/static/js/787.fa66b9e7.chunk.js",
+    "static/media/carousel3.png": "/static/media/carousel3.3aa8453b00281f142a27.png",
+    "static/media/laboratory.png": "/static/media/laboratory.daf04edef6d99fd70e33.png",
+    "static/media/carousel8.png": "/static/media/carousel8.74c2b05874593a57f6ad.png",
+    "static/media/carousel2.png": "/static/media/carousel2.483b52f2fbaf679c1744.png",
+    "static/media/carousel6.png": "/static/media/carousel6.9ec04124fd6fcecfad27.png",
+    "static/media/carousel4.png": "/static/media/carousel4.d276ec93e000c8de0628.png",
+    "static/media/carousel1.png": "/static/media/carousel1.adc5d006d3577cf6285a.png",
+    "static/media/carousel7.png": "/static/media/carousel7.0215083b100dccd0a64d.png",
+    "static/media/certificate.png": "/static/media/certificate.341de436a5a89e45fe5d.png",
+    "static/media/carousel5.png": "/static/media/carousel5.96eb6d78dd69a1d30026.png",
+    "static/media/washproof.png": "/static/media/washproof.26e7b316135e0a41a821.png",
+    "static/media/rolled.png": "/static/media/rolled.62c51b9ea05f931e271f.png",
+    "static/media/cotton.png": "/static/media/cotton.bfd31f38498a1c76bcef.png",
+    "static/media/sterile.png": "/static/media/sterile.b0a98611bb11fef642fd.png",
+    "static/media/elasticPlaster.png": "/static/media/elasticPlaster.dc1a6123d9f60ebf4392.png",
+    "static/media/cetrimide.png": "/static/media/cetrimide.a97d4bbcffda8da77547.png",
+    "static/media/feracrylum.png": "/static/media/feracrylum.27b9fe3a8faa16e8c0ff.png",
+    "static/media/pouch.png": "/static/media/pouch.2f12776e75f6e423856b.png",
+    "static/media/logo.png": "/static/media/logo.f31a25ddbfa828ffa03f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1d419761.css.map": "/static/css/main.1d419761.css.map",
+    "main.78ee2fee.js.map": "/static/js/main.78ee2fee.js.map",
+    "787.fa66b9e7.chunk.js.map": "/static/js/787.fa66b9e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d419761.css",
+    "static/js/main.78ee2fee.js"
+  ]
+}
